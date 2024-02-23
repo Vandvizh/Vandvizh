@@ -25,6 +25,5 @@
 ## Мои контакты
 
 [![Linkedin: Ivan Sliunin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sliunin-812875225)
-[![Gmail: jennaqa](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)](https://vandvizh@gmail.com
-)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
+[![Gmail: Ivan Sliunin](https://img.shields.io/badge/-Gmail-e4405f?style=flat-square&logo=Gmail&logoColor=white)](https://vandvizh@gmail.com)
+[![Telegram: Ivan Sliunin](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Vandvizz)
