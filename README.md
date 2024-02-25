@@ -28,8 +28,7 @@
 - Женат🤵
 - К срочной службе не годен в мирное время, без переосвидетельствования🙌
 
-
-##Технологии
+## Технологии
 <p align="left">
 <a href="https://www.postman.com/">
 <img src="https://github.com/Vandvizh/Vandvizh/blob/main/Postman.png" alt="Postman" width="50" height="50" />
