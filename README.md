@@ -41,10 +41,7 @@
 <img src="https://github.com/Vandvizh/Vandvizh/blob/main/GitHub.png" alt="GitHub" width="50" height="50" />
 </a>
 <a href="https://trello.com/ru">
-<img src="https://github.com/Vandvizh/Vandvizh/blob/main/Trello-logo-blue.svg.png" alt="Trello" width="50" height="50" />
-</a>
-<a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
+<img src="https://github.com/Vandvizh/Vandvizh/blob/main/Trello-logo-blue.svg.png" alt="Trello" width="100" height="50" />
 </a>
 <a href="https://learn.microsoft.com/ru-ru/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">
 <img src="https://github.com/Vandvizh/Vandvizh/blob/main/ssms.png" alt="SQL Server Management Studio" width="50" height="50" />
