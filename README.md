@@ -28,6 +28,28 @@
 - Женат🤵
 - К срочной службе не годен в мирное время, без переосвидетельствования🙌
 
+
+##Технологии
+<p align="left">
+<a href="https://www.postman.com/">
+<img src="https://github.com/Vandvizh/Vandvizh/blob/main/Postman.png" alt="Postman" width="50" height="50" />
+</a>
+<a href="https://cloud.yandex.ru/ru/services/tracker">
+<img src="https://github.com/Vandvizh/Vandvizh/blob/main/Logo_Yandex_Tracker_2021.svg.png" alt="YTracker" width="50" height="50" />
+</a>
+<a href="https://github.com/">
+<img src="https://github.com/Vandvizh/Vandvizh/blob/main/GitHub.png" alt="GitHub" width="50" height="50" />
+</a>
+<a href="https://trello.com/ru">
+<img src="https://github.com/Vandvizh/Vandvizh/blob/main/Trello-logo-blue.svg.png" alt="Trello" width="50" height="50" />
+</a>
+<a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
+</a>
+<a href="https://learn.microsoft.com/ru-ru/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16">
+<img src="https://github.com/Vandvizh/Vandvizh/blob/main/ssms.png" alt="SQL Server Management Studio" width="50" height="50" />
+</a>
+
 ## Мои контакты📞
 
 [![Linkedin: Ivan Sliunin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sliunin-812875225)
