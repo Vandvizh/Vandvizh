@@ -40,4 +40,3 @@
 
 - Gmail: vandvizh@gmail.com
 - Telegram @Vandvizz
-- Моб. телефон: +375336738124
