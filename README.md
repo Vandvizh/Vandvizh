@@ -39,4 +39,4 @@
 ## Мои контакты📞
 
 - Gmail: vandvizh@gmail.com
-- Telegram @Vandvizz
+- Telegram @vandvizh
